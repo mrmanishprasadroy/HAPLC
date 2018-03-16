@@ -1,0 +1,7 @@
+D:\Test_project\HAPLC\TCPService\bin\Debug\TCPService.exe
+D:\Test_project\HAPLC\TCPService\bin\Debug\TCPService.pdb
+D:\Test_project\HAPLC\TCPService\obj\Debug\TCPService.TCPInstaller.resources
+D:\Test_project\HAPLC\TCPService\obj\Debug\TCPService.TCPService.resources
+D:\Test_project\HAPLC\TCPService\obj\Debug\TCPService.csproj.GenerateResource.Cache
+D:\Test_project\HAPLC\TCPService\obj\Debug\TCPService.exe
+D:\Test_project\HAPLC\TCPService\obj\Debug\TCPService.pdb

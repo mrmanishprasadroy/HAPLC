@@ -1,0 +1,7 @@
+D:\Test_project\HAPLC\HAPLC\bin\Debug\HAPLC.exe
+D:\Test_project\HAPLC\HAPLC\bin\Debug\HAPLC.pdb
+D:\Test_project\HAPLC\HAPLC\obj\x86\Debug\HAPLC.Form1.resources
+D:\Test_project\HAPLC\HAPLC\obj\x86\Debug\HAPLC.Properties.Resources.resources
+D:\Test_project\HAPLC\HAPLC\obj\x86\Debug\HAPLC.csproj.GenerateResource.Cache
+D:\Test_project\HAPLC\HAPLC\obj\x86\Debug\HAPLC.exe
+D:\Test_project\HAPLC\HAPLC\obj\x86\Debug\HAPLC.pdb

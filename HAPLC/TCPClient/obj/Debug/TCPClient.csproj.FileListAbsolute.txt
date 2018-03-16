@@ -1,0 +1,5 @@
+D:\Test_project\HAPLC\TCPClient\bin\Debug\TCPClient.exe
+D:\Test_project\HAPLC\TCPClient\bin\Debug\TCPClient.pdb
+D:\Test_project\HAPLC\TCPClient\obj\Debug\TCPClient.exe
+D:\Test_project\HAPLC\TCPClient\obj\Debug\TCPClient.pdb
+D:\Test_project\HAPLC\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
